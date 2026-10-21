@@ -2,11 +2,11 @@
 
 A beginner Python project designed to help students manage their monthly budget and track their expenses.
 
-Project Status
+# Project Status
 
 In Progress — currently developing the core budget and expense-tracking functionality.
 
-Current Features
+# Current Features
 
 Accepts a monthly budget from the user.
 
@@ -16,7 +16,7 @@ Handles invalid numerical input.
 
 Begins implementing expense descriptions and expense categories.
 
-Technologies
+# Technologies
 
 Python 3
 
@@ -28,7 +28,7 @@ Exception handling
 
 Lists and input validation
 
-Planned Features
+# Planned Features
 
 Allow users to add expenses with amounts and categories.
 
@@ -40,7 +40,7 @@ Provide a budget summary.
 
 Save expenses between program sessions.
 
-Learning Goals
+# Learning Goals
 
 This project is helping me strengthen my Python programming skills by building a practical application from scratch.
 
