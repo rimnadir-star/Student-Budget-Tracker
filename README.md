@@ -1,4 +1,4 @@
-Student Budget Tracker
+#Student Budget Tracker
 
 A beginner Python project designed to help students manage their monthly budget and track their expenses.
 
